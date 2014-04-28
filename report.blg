@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: aabib.bst
+Database file #1: mybib.bib.bib
+Warning--empty publisher in mihalas
+You've used 25 entries,
+            2377 wiz_defined-function locations,
+            649 strings with 6892 characters,
+and the built_in function-call counts, 10593 in all, are:
+= -- 1369
+> -- 419
+< -- 41
++ -- 140
+- -- 140
+* -- 1008
+:= -- 1721
+add.period$ -- 0
+call.type$ -- 25
+change.case$ -- 170
+chr.to.int$ -- 25
+cite$ -- 26
+duplicate$ -- 302
+empty$ -- 434
+format.name$ -- 185
+if$ -- 2098
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 104
+num.names$ -- 76
+pop$ -- 116
+preamble$ -- 1
+purify$ -- 195
+quote$ -- 0
+skip$ -- 265
+stack$ -- 0
+substring$ -- 1113
+swap$ -- 50
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 148
+warning$ -- 1
+while$ -- 95
+width$ -- 0
+write$ -- 276
+(There was 1 warning)
