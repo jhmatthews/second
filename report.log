@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 APR 2014 11:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 APR 2014 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -180,7 +180,17 @@ Package subfigure Warning: Your document class has a bad definition
 \subfig@top=\skip55
 \subfig@bottom=\skip56
 )
-(./report.aux
+(/usr/local/texlive/2012/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count101
+\float@exts=\toks17
+\float@box=\box28
+\@float@everytoks=\toks18
+\@floatcapt=\box29
+) (./report.aux
+
+LaTeX Warning: Label `spec' multiply defined.
+
 
 LaTeX Warning: Label `spec' multiply defined.
 
@@ -201,17 +211,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
  (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
+\scratchcounter=\count102
 \scratchdimen=\dimen110
-\scratchbox=\box28
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count104
+\scratchbox=\box30
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count105
 \MPscratchDim=\dimen111
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks18
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks20
 ) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -256,27 +266,27 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box29
+\AtBeginShipoutBox=\box31
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 81.
+(Font)              <14.4> on input line 84.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 81.
-LaTeX Font Info:    Try loading font information for U+eur on input line 81.
+(Font)              <7> on input line 84.
+LaTeX Font Info:    Try loading font information for U+eur on input line 84.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2009/06/22 v3.00 Euler Roman
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
+LaTeX Font Info:    Try loading font information for U+msa on input line 84.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 86.
+(Font)              <5> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 145.
+(Font)              <9> on input line 149.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 145.
+(Font)              <6> on input line 149.
  [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -289,16 +299,16 @@ f>
 (epstopdf)                    size: 18804 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/seaton_emissiv-eps
 -converted-to.pdf figures/seaton_emissiv.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             \includegraphics on input line 245.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/seaton_emissiv-eps-converted-to.pdf, id=15, 578.16pt x 433.62pt>
+<figures/seaton_emissiv-eps-converted-to.pdf, id=16, 578.16pt x 433.62pt>
 File: figures/seaton_emissiv-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/seaton_emissiv-eps-converted-to.pdf>
 Package pdftex.def Info: figures/seaton_emissiv-eps-converted-to.pdf used on in
-put line 227.
-(pdftex.def)             Requested size: 226.79846pt x 170.09697pt.
+put line 245.
+(pdftex.def)             Requested size: 226.79997pt x 245.71695pt.
 Package epstopdf Info: Source file: <figures/hepops.eps>
 (epstopdf)                    date: 2014-04-24 14:10:43
 (epstopdf)                    size: 120883 bytes
@@ -307,37 +317,18 @@ Package epstopdf Info: Source file: <figures/hepops.eps>
 (epstopdf)                    size: 13126 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/hepops-eps-convert
 ed-to.pdf figures/hepops.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             \includegraphics on input line 245.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/hepops-eps-converted-to.pdf, id=16, 578.16pt x 433.62pt>
+<figures/hepops-eps-converted-to.pdf, id=18, 578.16pt x 433.62pt>
 File: figures/hepops-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/hepops-eps-converted-to.pdf>
 Package pdftex.def Info: figures/hepops-eps-converted-to.pdf used on input line
- 227.
-(pdftex.def)             Requested size: 226.79846pt x 170.09697pt.
+ 245.
+(pdftex.def)             Requested size: 226.79997pt x 245.71695pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 237.
- [2]
-Package epstopdf Info: Source file: <figures/fig1.eps>
-(epstopdf)                    date: 2014-04-24 14:10:58
-(epstopdf)                    size: 117657 bytes
-(epstopdf)             Output file: <figures/fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-04-24 14:10:58
-(epstopdf)                    size: 11070 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/fig1-eps-converted
--to.pdf figures/fig1.eps>
-(epstopdf)             \includegraphics on input line 311.
-Package epstopdf Info: Output file is already uptodate.
-
-<figures/fig1-eps-converted-to.pdf, id=25, 493.845pt x 382.42876pt>
-File: figures/fig1-eps-converted-to.pdf Graphic file (type pdf)
-
-<use figures/fig1-eps-converted-to.pdf>
-Package pdftex.def Info: figures/fig1-eps-converted-to.pdf used on input line 3
-11.
-(pdftex.def)             Requested size: 252.0pt x 195.14111pt.
+(Font)              <8> on input line 257.
 Package epstopdf Info: Source file: <figures/groot11.eps>
 (epstopdf)                    date: 2014-04-25 10:40:50
 (epstopdf)                    size: 1772526 bytes
@@ -346,78 +337,123 @@ Package epstopdf Info: Source file: <figures/groot11.eps>
 (epstopdf)                    size: 54203 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/groot11-eps-conver
 ted-to.pdf figures/groot11.eps>
-(epstopdf)             \includegraphics on input line 318.
+(epstopdf)             \includegraphics on input line 296.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/groot11-eps-converted-to.pdf, id=26, 1085.05376pt x 809.0225pt>
+<figures/groot11-eps-converted-to.pdf, id=20, 1085.05376pt x 809.0225pt>
 File: figures/groot11-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/groot11-eps-converted-to.pdf>
 Package pdftex.def Info: figures/groot11-eps-converted-to.pdf used on input lin
-e 318.
-(pdftex.def)             Requested size: 504.0pt x 375.78421pt.
-Package epstopdf Info: Source file: <figures/plot_combined1.eps>
-(epstopdf)                    date: 2014-04-25 10:45:27
-(epstopdf)                    size: 254150 bytes
-(epstopdf)             Output file: <figures/plot_combined1-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2014-04-25 10:45:30
-(epstopdf)                    size: 105347 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/plot_combined1-eps
--converted-to.pdf figures/plot_combined1.eps>
-(epstopdf)             \includegraphics on input line 328.
+e 296.
+(pdftex.def)             Requested size: 403.20154pt x 300.62984pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figures/seaton_emissiv-eps-converted-to.pdf> <./figures/hepops-eps-conve
+rted-to.pdf> <./figures/groot11-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/fig1.eps>
+(epstopdf)                    date: 2014-04-24 14:10:58
+(epstopdf)                    size: 117657 bytes
+(epstopdf)             Output file: <figures/fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-24 14:10:58
+(epstopdf)                    size: 11070 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/fig1-eps-converted
+-to.pdf figures/fig1.eps>
+(epstopdf)             \includegraphics on input line 351.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/plot_combined1-eps-converted-to.pdf, id=27, 600.2425pt x 477.785pt>
+<figures/fig1-eps-converted-to.pdf, id=66, 493.845pt x 382.42876pt>
+File: figures/fig1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/fig1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/fig1-eps-converted-to.pdf used on input line 3
+51.
+(pdftex.def)             Requested size: 352.79846pt x 273.20107pt.
+Package epstopdf Info: Source file: <figures/plot_combined1.eps>
+(epstopdf)                    date: 2014-04-29 13:38:09
+(epstopdf)                    size: 275808 bytes
+(epstopdf)             Output file: <figures/plot_combined1-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2014-04-29 13:44:38
+(epstopdf)                    size: 118047 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/plot_combined1-eps
+-converted-to.pdf figures/plot_combined1.eps>
+(epstopdf)             \includegraphics on input line 360.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/plot_combined1-eps-converted-to.pdf, id=67, 722.7pt x 477.785pt>
 File: figures/plot_combined1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/plot_combined1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/plot_combined1-eps-converted-to.pdf used on in
-put line 328.
-(pdftex.def)             Requested size: 504.0pt x 401.19086pt.
- [3 <./figures/seaton_emissiv-eps-converted-to.pdf> <./figures/hepops-eps-conve
-rted-to.pdf> <./figures/fig1-eps-converted-to.pdf>] [4 <./figures/groot11-eps-c
-onverted-to.pdf>] [5 <./figures/plot_combined1-eps-converted-to.pdf>] (./report
-.bbl [6]) [7] (./report.aux)
+put line 360.
+(pdftex.def)             Requested size: 504.00432pt x 289.08673pt.
+ [4 <./figures/fig1-eps-converted-to.pdf>] [5 <./figures/plot_combined1-eps-con
+verted-to.pdf>]
+Package epstopdf Info: Source file: <figures/hst.eps>
+(epstopdf)                    date: 2014-04-29 18:49:07
+(epstopdf)                    size: 139284 bytes
+(epstopdf)             Output file: <figures/hst-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-04-29 18:49:10
+(epstopdf)                    size: 25600 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/hst-eps-converted-
+to.pdf figures/hst.eps>
+(epstopdf)             \includegraphics on input line 525.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/hst-eps-converted-to.pdf, id=109, 722.7pt x 397.485pt>
+File: figures/hst-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/hst-eps-converted-to.pdf>
+Package pdftex.def Info: figures/hst-eps-converted-to.pdf used on input line 52
+5.
+(pdftex.def)             Requested size: 504.00432pt x 267.40529pt.
+ [6] (./report.bbl [7 <./figures/hst-eps-converted-to.pdf>]) [8] (./report.aux)
+
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3308 strings out of 493488
- 47213 string characters out of 3141326
- 111465 words of memory out of 3000000
- 6550 multiletter control sequences out of 15000+200000
- 17557 words of font info for 61 fonts, out of 3000000 for 9000
+ 3423 strings out of 493488
+ 49008 string characters out of 3141326
+ 116806 words of memory out of 3000000
+ 6659 multiletter control sequences out of 15000+200000
+ 17909 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,8n,34p,781b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,34p,1040b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
 /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
-sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/loca
-l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/
-texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
-12/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb></usr/local/texlive/2012/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/local/texlive/2012/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2012/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on report.pdf (7 pages, 451791 bytes).
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2012/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb></usr/local/texlive/2012/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/local/texlive/2012/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2012/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2012/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on report.pdf (8 pages, 504183 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 201 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 

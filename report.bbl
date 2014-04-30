@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{{Badnell} et~al.}{2005}]{topbase2005}
+{Badnell} N.~R., {Bautista} M.~A., {Butler} K., {Delahaye} F., {Mendoza} C.,
+  {Palmeri} P., {Zeippen} C.~J., {Seaton} M.~J., 2005,
+  \mnras~  360, 458
+
 \bibitem[\protect\astroncite{{Belloni}}{2010}]{bellonijet2010}
 {Belloni} T. (ed.), 2010,
 \newblock {The Jet Paradigm},
@@ -8,6 +13,12 @@
 \bibitem[\protect\astroncite{{Cordova} \& {Mason}}{1982}]{cordova1982}
 {Cordova} F.~A., {Mason} K.~O., 1982,
   \apj~  260, 716
+
+\bibitem[\protect\astroncite{{Dere} et~al.}{2009}]{chianti}
+{Dere} K.~P., {Landi} E., {Young} P., {Del Zanna} G., {Mason} H., {Landini} M.,
+  2009,
+\newblock in AAS/Solar Physics Division Meeting \#40,
+  Vol.~40 of {\em AAS/Solar Physics Division Meeting\/},  15.04
 
 \bibitem[\protect\astroncite{{Dhillon} \& {Rutten}}{1995}]{DR95}
 {Dhillon} V.~S., {Rutten} R.~G.~M., 1995,
@@ -32,6 +43,10 @@
 {Honeycutt} R.~K., {Schlegel} E.~M., {Kaitchuck} R.~H., 1986,
   \apj~  302, 388
 
+\bibitem[\protect\astroncite{{Humphrey} \& {Binette}}{2014}]{HB14}
+{Humphrey} A., {Binette} L., 2014,
+  ArXiv e-prints~
+
 \bibitem[\protect\astroncite{{Ioannou} et~al.}{2003}]{ioannau2003}
 {Ioannou} Z., {van Zyl} L., {Naylor} T., {Charles} P.~A., {Margon} B.,
   {Koch-Miramond} L., {Ilovaisky} S., 2003,
@@ -50,6 +65,14 @@
 {Long} K.~S., {Knigge} C., 2002,
   \apj~  579, 725
 
+\bibitem[\protect\astroncite{{Lucy}}{1999a}]{lucy1999radeq}
+{Lucy} L.~B., 1999a,
+  \aap~  344, 282
+
+\bibitem[\protect\astroncite{{Lucy}}{1999b}]{lucy1999sne}
+{Lucy} L.~B., 1999b,
+  \aap~  345, 211
+
 \bibitem[\protect\astroncite{{Lucy}}{2002}]{lucy2002}
 {Lucy} L.~B., 2002,
   \aap~  384, 725
@@ -58,9 +81,17 @@
 {Lucy} L.~B., 2003,
   \aap~  403, 261
 
+\bibitem[\protect\astroncite{{Lucy} \& {Abbott}}{1993}]{lucy1993wolfrayet}
+{Lucy} L.~B., {Abbott} D.~C., 1993,
+  \apj~  405, 738
+
 \bibitem[\protect\astroncite{{Mazzali} \& {Lucy}}{1993}]{LM93}
 {Mazzali} P.~A., {Lucy} L.~B., 1993,
   \aap~  279, 447
+
+\bibitem[\protect\astroncite{{McHardy} et~al.}{2006}]{mchardy2006}
+{McHardy} I.~M., {Koerding} E., {Knigge} C., {Uttley} P., {Fender} R.~P., 2006,
+  \nat~  444, 730
 
 \bibitem[\protect\astroncite{{Mihalas}}{1982}]{mihalas}
 {Mihalas} D.~M., 1982,
@@ -75,9 +106,36 @@
 {Murray} N., {Chiang} J., 1996,
   \nat~  382, 789
 
+\bibitem[\protect\astroncite{{Murray} et~al.}{1995}]{MCGV95}
+{Murray} N., {Chiang} J., {Grossman} S.~A., {Voit} G.~M., 1995,
+  \apj~  451, 498
+
+\bibitem[\protect\astroncite{{Noebauer} et~al.}{2010}]{noebauer}
+{Noebauer} U.~M., {Long} K.~S., {Sim} S.~A., {Knigge} C., 2010,
+  \apj~  719, 1932
+
+\bibitem[\protect\astroncite{{Osterbrock}}{1989}]{osterbrock}
+{Osterbrock} D.~E., 1989,
+\newblock {Astrophysics of gaseous nebulae and active galactic nuclei}
+
+\bibitem[\protect\astroncite{{Patruno} et~al.}{2014}]{Patruno2014}
+{Patruno} A., {Archibald} A.~M., {Hessels} J.~W.~T., {Bogdanov} S., {Stappers}
+  B.~W., {Bassa} C.~G., {Janssen} G.~H., {Kaspi} V.~M., {Tendulkar} S., {Lyne}
+  A.~G., 2014,
+  \apjl~  781, L3
+
 \bibitem[\protect\astroncite{{Peterson}}{1998}]{peterson1998}
 {Peterson} B.~M., 1998,
   Advances in Space Research~  21, 57
+
+\bibitem[\protect\astroncite{{Ringwald} \& {Naylor}}{1998}]{RN98}
+{Ringwald} F.~A., {Naylor} T., 1998,
+  \aj~  115, 286
+
+\bibitem[\protect\astroncite{{Scaringi} et~al.}{2012}]{SKUK2012}
+{Scaringi} S., {K{\"o}rding} E., {Uttley} P., {Knigge} C., {Groot} P.~J.,
+  {Still} M., 2012,
+  \mnras~  421, 2854
 
 \bibitem[\protect\astroncite{{Seaton}}{1959}]{seaton1959}
 {Seaton} M.~J., 1959,
@@ -91,6 +149,10 @@
 {Shlosman} I., {Vitello} P., 1993,
   \apj~  409, 372
 
+\bibitem[\protect\astroncite{{Shlosman} et~al.}{1996}]{SVM96}
+{Shlosman} I., {Vitello} P., {Mauche} C.~W., 1996,
+  \apj~  461, 377
+
 \bibitem[\protect\astroncite{{Silk} \& {Rees}}{1998}]{silkrees1998}
 {Silk} J., {Rees} M.~J., 1998,
   \aap~  331, L1
@@ -98,6 +160,10 @@
 \bibitem[\protect\astroncite{{Sim} et~al.}{2005}]{simmacro2005}
 {Sim} S.~A., {Drew} J.~E., {Long} K.~S., 2005,
   \mnras~  363, 615
+
+\bibitem[\protect\astroncite{{Stalevski} et~al.}{2013}]{stalevski2013}
+{Stalevski} M., {Fritz} J., {Baes} M., {Popovic} L.~C., 2013,
+  ArXiv e-prints~
 
 \bibitem[\protect\astroncite{{Turner} \& {Miller}}{2009}]{turnermiller2009}
 {Turner} T.~J., {Miller} L., 2009,
